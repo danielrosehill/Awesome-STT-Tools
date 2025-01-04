@@ -38,14 +38,35 @@
 
 **Echo STT**
 
- **Echo STT**
-
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Download-brightgreen?logo=google-chrome)](https://chromewebstore.google.com/detail/echo-speech-to-text-dicta/dogdmonghloddlmlbdpchiedlckadgal?hl=en)  
 [![Website](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome)](https://www.echo-stt.com/)  
 
 - Privacy-focused speech-to-text Chrome extension
 - Emphasizes user data privacy, no storage on servers
 - Provides accurate transcription without compromising user data
+
+ ## Linux Desktop
+
+ **Nerd Dictation**
+
+- ![Stars](https://img.shields.io/github/stars/ideasman42/nerd-dictation?style=social)
+- ![License](https://img.shields.io/github/license/ideasman42/nerd-dictation?color=green)
+
+- Linux command-line tool for offline speech-to-text
+- VOSK API
+- Allows text entry into any typed field via key bindings
+
+**Speech Note**
+
+- ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+- ![License](https://img.shields.io/badge/License-MIT-green)
+- ![GitHub](https://img.shields.io/github/stars/mkiol/dsnote?style=social)
+
+- Linux desktop notepad application
+- Utilizes locally hosted Whisper models for speech-to-text
+- Text entry is limited to the app's interface
+
+ 
 
 ## Purpose Statement
 
