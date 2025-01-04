@@ -16,8 +16,7 @@
 
 **Whisper AI**
 
-![Chrome](https://img.shields.io/badge/Chrome-Extension-blue?logo=google-chrome)
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Download-brightgreen?logo=google-chrome)](https://chromewebstore.google.com/detail/whisperai-ai-driven-speec/klhcnkknganbneegjihbcfjoifiomhfn?hl=en)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Download-brightgreen?logo=google-chrome)](https://chromewebstore.google.com/detail/whisperai-ai-driven-speec/klhcnkknganbneegjihbcfjoifiomhfn?hl=en)  
 ![Model](https://img.shields.io/badge/Model-OpenAI_Whisper-blue)
 ![License](https://img.shields.io/badge/License-Commercial-orange)
 
