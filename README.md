@@ -25,6 +25,28 @@
 - Offers excellent accuracy and good pricing plans
 - Regularly updated with new features
 
+**Whispering**
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Download-brightgreen?logo=google-chrome)](https://chromewebstore.google.com/detail/whispering/oilbfihknpdbpfkcncojikmooipnlglo?hl=en)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/braden-w/whispering-extension)  
+![Model](https://img.shields.io/badge/Model-OpenAI_Whisper-blue)
+
+- Chrome extension for self-hosted OpenAI Whisper
+- Allows users to provide their own OpenAI API key
+- Pay-as-you-go transcription service
+- Project seems inactive, marked as archived on GitHub
+
+**Echo STT**
+
+ **Echo STT**
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Download-brightgreen?logo=google-chrome)](https://chromewebstore.google.com/detail/echo-speech-to-text-dicta/dogdmonghloddlmlbdpchiedlckadgal?hl=en)  
+[![Website](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome)](https://www.echo-stt.com/)  
+
+- Privacy-focused speech-to-text Chrome extension
+- Emphasizes user data privacy, no storage on servers
+- Provides accurate transcription without compromising user data
+
 ## Purpose Statement
 
 
