@@ -13,6 +13,14 @@ A small compilation of tools that I have found helpful for speech to text (STT),
 - Offers a lifetime deal for heavy users.
 - Well-developed and user-friendly interface.
 
+ **Voicy**  
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Download-brightgreen?logo=google-chrome)](https://chromewebstore.google.com/detail/voicy-voice-to-text-power/hgegmplalfpnkfahiikedaghinbocfdd)
+
+- AI-powered speech-to-text extension for Google Chrome
+- Enhances productivity with real-time transcription
+- Regularly updated with new features
+
 ### Whisper AI
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Download-brightgreen?logo=google-chrome)](https://chromewebstore.google.com/detail/whisperai-ai-driven-speec/klhcnkknganbneegjihbcfjoifiomhfn?hl=en)
